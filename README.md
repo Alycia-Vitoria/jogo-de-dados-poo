@@ -32,7 +32,7 @@ Alycia vitória
 ---
 
 ## 🧩 Diagrama de Classes
-![Diagrama de Classes](./dclasses.png)
+<img width="1201" height="933" alt="dclasses" src="https://github.com/user-attachments/assets/e9fbb922-bc9b-46d2-900b-5c142a385ee5" />
 
 
 ---
