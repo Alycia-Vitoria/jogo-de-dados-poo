@@ -2,7 +2,7 @@
 # 🎲 Jogo de Dados
 
 ## 👩‍💻 Desenvolvido por
-Alycia vitória
+Alycia vitória IF24
 
 ---
 
