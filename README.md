@@ -32,7 +32,7 @@ Alycia vitória
 ---
 
 ## 🧩 Diagrama de Classes
-![Diagrama de Classes](https://github.com/Alycia-Vitoria/jogo-de-dados-poo/blob/52db3cefd4af5949bc4901af3dc22accb3e19567/dclasses.png)
+![Diagrama de Classes](/dclasses.png)
 
 
 ---
