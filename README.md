@@ -38,7 +38,8 @@ Alycia vitória
 ---
 
 ## 🎭 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](https://github.com/Alycia-Vitoria/jogo-de-dados-poo/blob/02d481561075297a08d3fcf8cd66f861885b5f32/classesduso.png)
+![WhatsApp Image 2025-10-29 at 09 26 25](https://github.com/user-attachments/assets/87744a25-c4d9-44c4-849a-9c955e7d05b1)
+
 
 ---
 
