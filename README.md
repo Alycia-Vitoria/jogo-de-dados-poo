@@ -32,7 +32,7 @@ Alycia vitória
 ---
 
 ## 🧩 Diagrama de Classes
-![Diagrama de Classes](/dclasses.png)
+![Diagrama de Classes](./dclasses.png)
 
 
 ---
