@@ -32,15 +32,15 @@ Alycia vitória
 ---
 
 ## 🧩 Diagrama de Classes
-![Diagrama de Classes](./https://github.com/Alycia-Vitoria/jogo-de-dados-poo/blob/52db3cefd4af5949bc4901af3dc22accb3e19567/dclasses.png)
+![Diagrama de Classes](https://github.com/Alycia-Vitoria/jogo-de-dados-poo/blob/52db3cefd4af5949bc4901af3dc22accb3e19567/dclasses.png)
 
 
 ---
 
 ## 🎭 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./https://github.com/Alycia-Vitoria/jogo-de-dados-poo/blob/02d481561075297a08d3fcf8cd66f861885b5f32/classesduso.png)
+![Diagrama de Casos de Uso](https://github.com/Alycia-Vitoria/jogo-de-dados-poo/blob/02d481561075297a08d3fcf8cd66f861885b5f32/classesduso.png)
 
 ---
 
 ## 🔗 Repositório no GitHub
-[Link para o repositório]()
+[Link para o repositório](https://github.com/Alycia-Vitoria/jogo-de-dados-poo)
