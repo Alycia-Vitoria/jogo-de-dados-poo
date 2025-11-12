@@ -45,3 +45,19 @@ Alycia vitória IF24
 
 ## 🔗 Repositório no GitHub
 [Link para o repositório](https://github.com/Alycia-Vitoria/jogo-de-dados-poo)
+
+# 🗃️ Banco de Dados - Jogo de Dados
+
+## 💾 Estrutura do Banco (MySQL)
+O banco de dados contém as tabelas principais do jogo, responsáveis por armazenar informações dos jogadores, apostas e resultados.
+
+📄 [Download do Script SQL](./banco_jogo_dados.sql)
+
+### 🔹 Exemplo de tabela
+```sql
+CREATE TABLE jogador (
+  id BIGINT AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(100),
+  saldo DECIMAL(10,2)
+);
+
